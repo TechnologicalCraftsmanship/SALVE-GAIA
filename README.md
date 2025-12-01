@@ -43,7 +43,7 @@ Modelos 3D:
 
 
 
-Autores:
+Alunos:
 
 -Guilherme Saunite
 
