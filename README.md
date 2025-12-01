@@ -4,6 +4,7 @@ O objetivo do projeto era a impressão 3D dos totens de metrópole, cidade e vil
 
 
 Software/modelador 3D: Autodesk Fusion
+
 Renderizador: Autodesk Fusion
 
 
